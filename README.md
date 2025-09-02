@@ -59,9 +59,9 @@ When I’m not coding, you’ll probably find me:
 
 ## 📈 GitHub Stats  
 
-![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)  
+![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudra011&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra011&layout=compact&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudra011&theme=radical)  
 
 ---
 

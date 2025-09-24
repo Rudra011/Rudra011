@@ -68,7 +68,7 @@ When I’m not coding, you’ll probably find me:
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/rudra-dubey-blr011/])  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)]([https://www.hackerrank.com/](https://www.hackerrank.com/profile/jashndubey1))  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)]([https://www.hackerrank.com/profile/jashndubey1](https://www.hackerrank.com/profile/jashndubey1))  
 
 ---
 

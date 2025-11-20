@@ -71,13 +71,6 @@ When I’m not coding, you’ll probably find me:
 
 ---
 
-## 📈 GitHub Stats
-
-![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudra011\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra011\&layout=compact\&theme=radical)
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rudra-dubey-blr011/)

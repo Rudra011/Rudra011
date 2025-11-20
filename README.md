@@ -1,76 +1,88 @@
-# 👋 Hey, I'm Rudra  
+# 👋 Hey, I'm Rudra
 
-🎓 **B.Tech CSE (Cyber Security)** @ Dayanand Sagar University (Class of 2028)  
-💻 Developer | 🎮 Game Builder | 📸 Photographer | 🎶 Music Enthusiast  
-
----
-
-## 🧑‍💻 About Me  
-
-I’m passionate about **building things that blend technology, creativity, and psychology**.  
-From **modernizing enterprise apps** to **designing immersive games**, I love projects that challenge me and let me explore new skills.  
-
-- 🔐 Specializing in **Cyber Security** with a focus on secure app development.  
-- ⚡ Currently working on:  
-  - A **3D Horror RPG in Unity** (free assets, sanity mechanics, branching storylines).  
-  - A **psychological choice-based game in C/SDL2** with turn-based combat.  
-  - **Full-stack .NET + React applications**, upgrading legacy ASP.NET systems.  
-- 📊 Runner-up in an **Inter-school Data Science Competition**.  
-- 🛠️ Skilled in **C++ | Python | SQL | .NET | React | WPF | Unity | SDL2**.  
+🎓 **B.Tech CSE (Cyber Security)** @ Dayanand Sagar University (Class of 2028)
+💻 Developer | 🎮 Game Builder | 📸 Photographer | 🎶 Music Enthusiast
 
 ---
 
-## 🛠️ Tech Toolbox  
+## 🧑‍💻 About Me
 
-**Languages:**  
-- C, C++, Python, SQL  
+I’m passionate about **building things that blend technology, creativity, and psychology**.
+From **modernizing enterprise apps** to **designing immersive games**, I love projects that challenge me and let me explore new skills.
 
-**Frameworks & Tools:**  
-- .NET, React, WPF, SDL2, Unity  
+* 🔐 Specializing in **Cyber Security** with a focus on secure app development.
+* ⚡ Currently working on:
 
-**Other Skills:**  
-- Data Analytics & Visualization  
-- Cyber Security Practices  
-- Photography & Editing (Adobe tools, Blender basics)  
-- Teamwork, Communication & Event Management  
-
----
-
-## 🚀 Projects & Interests  
-
-- 🖼️ **WPF Vention.io Configurator Replica** → Built a 3D interactive UI with HelixToolkit.  
-- ⚔️ **Game of Guidance (C-based Psychological Game)** → Turn-based combat, branching storylines, and random attack mechanics.  
-- 🎮 **Unity Horror RPG** → Low-poly 3D environment, chase mechanics, sanity effects, and psychological storytelling.  
-- 🌐 **VBKP React + .NET 8 Website** → Integrated backend APIs with a modern React frontend.  
-- 🔧 **ASP.NET WebForms Modernization** → Upgrading legacy apps with APIs, logging, and new feature support.  
+  * A **3D Horror RPG in Unity** (free assets, sanity mechanics, branching storylines).
+  * A **psychological choice-based game in C/SDL2** with turn-based combat.
+  * **Full-stack .NET + React applications**, upgrading legacy ASP.NET systems.
+* 📊 Runner-up in an **Inter-school Data Science Competition**.
+* 🛠️ Skilled in **C++ | Python | SQL | .NET | React | WPF | Unity | SDL2**.
 
 ---
 
-## 🎨 Beyond Code  
+## 🛠️ Tech Toolbox
 
-When I’m not coding, you’ll probably find me:  
-- 📸 Exploring the world through my **camera lens**.  
-- 🎶 Playing guitar & discovering new music.  
-- ✍️ Writing **poetry & stories** (love, melancholy, imagination).  
-- 🏀 Shooting hoops on the basketball court.  
-- 🍳 Cooking something creative in the kitchen.  
+**Languages:**
 
----
+* C, C++, Python, SQL
 
-## 📈 GitHub Stats  
+**Frameworks & Tools:**
 
-![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudra011&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra011&layout=compact&theme=radical)  
+* .NET, React, WPF, SDL2, Unity
 
+**Other Skills:**
 
----
-
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-dubey-blr011/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jashndubey1)
-
+* Data Analytics & Visualization
+* Cyber Security Practices
+* Photography & Editing (Adobe tools, Blender basics)
+* Teamwork, Communication & Event Management
 
 ---
 
-✨ *“Code. Create. Break. Learn. Repeat.”*  
+## 🚀 Projects & Interests
+
+* 🖼️ **WPF Vention.io Configurator Replica** → Built a 3D interactive UI with HelixToolkit.
+* ⚔️ **Game of Guidance (C-based Psychological Game)** → Turn-based combat, branching storylines, and random attack mechanics.
+* 🎮 **Unity Horror RPG** → Low-poly 3D environment, chase mechanics, sanity effects, and psychological storytelling.
+* 🌐 **VBKP React + .NET 8 Website** → Integrated backend APIs with a modern React frontend.
+* 🔧 **ASP.NET WebForms Modernization** → Upgrading legacy apps with APIs, logging, and new feature support.
+
+---
+
+## 🌟 Featured Mini Projects
+
+🚀 **Explore my Mini Projects Repository:**
+
+👉 **[Mini Projects – Click Here](https://github.com/Rudra011/Mini_Projects/)**
+*A curated collection of small but powerful builds — from experiments to polished utilities.*
+
+---
+
+## 🎨 Beyond Code
+
+When I’m not coding, you’ll probably find me:
+
+* 📸 Exploring the world through my **camera lens**.
+* 🎶 Playing guitar & discovering new music.
+* ✍️ Writing **poetry & stories** (love, melancholy, imagination).
+* 🏀 Shooting hoops on the basketball court.
+* 🍳 Cooking something creative in the kitchen.
+
+---
+
+## 📈 GitHub Stats
+
+![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rudra011\&show_icons=true\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra011\&layout=compact\&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rudra-dubey-blr011/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge\&logo=HackerRank\&logoColor=white)](https://www.hackerrank.com/profile/jashndubey1)
+
+---
+
+✨ *“Code. Create. Break. Learn. Repeat.”*

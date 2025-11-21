@@ -1,81 +1,98 @@
-# 👋 Hey, I'm Rudra
+# 👋 Hey, I'm Rudra  
 
-🎓 **B.Tech CSE (Cyber Security)** @ Dayanand Sagar University (Class of 2028)
-💻 Developer | 🎮 Game Builder | 📸 Photographer | 🎶 Music Enthusiast
-
----
-
-## 🧑‍💻 About Me
-
-I’m passionate about **building things that blend technology, creativity, and psychology**.
-From **modernizing enterprise apps** to **designing immersive games**, I love projects that challenge me and let me explore new skills.
-
-* 🔐 Specializing in **Cyber Security** with a focus on secure app development.
-* ⚡ Currently working on:
-
-  * A **3D Horror RPG in Unity** (free assets, sanity mechanics, branching storylines).
-  * A **psychological choice-based game in C/SDL2** with turn-based combat.
-  * **Full-stack .NET + React applications**, upgrading legacy ASP.NET systems.
-* 📊 Runner-up in an **Inter-school Data Science Competition**.
-* 🛠️ Skilled in **C++ | Python | SQL | .NET | React | WPF | Unity | SDL2**.
+🎓 **B.Tech CSE (Cyber Security)** – Dayananda Sagar University (2028)  
+💻 Full-Stack & Backend Developer | 🎮 Game Builder | 🎨 Creator at Heart  
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🚀 About Me
 
-**Languages:**
+I’m a developer who loves building things that blend **technology, creativity, and psychology**.  
+My work ranges from **modernizing real applications** to **designing atmospheric games**, all while focusing on clean architecture & secure development.
 
-* C, C++, Python, SQL
+🔐 Cyber Security student turning concepts into secure, production-ready apps  
+⚡ Currently working on:  
+- 🧠 Psychological SDL2 Game (C) — branching choices, turn-based combat  
+- 👁️ Unity Horror RPG — sanity system, chase sequences, narrative zones  
+- 🌐 Full-Stack Apps using **React + .NET 8 Web API**  
+- ⚙️ Upgrading legacy ASP.NET systems into modern API-driven architecture  
 
-**Frameworks & Tools:**
-
-* .NET, React, WPF, SDL2, Unity
-
-**Other Skills:**
-
-* Data Analytics & Visualization
-* Cyber Security Practices
-* Photography & Editing (Adobe tools, Blender basics)
-* Teamwork, Communication & Event Management
+📊 *Runner-up — Inter-School Data Science Competition*  
+🎯 Aim: **Backend / Full-Stack Developer Role by 2026**
 
 ---
 
-## 🚀 Projects & Interests
+## 🛠 Tech Stack
 
-* 🖼️ **WPF Vention.io Configurator Replica** → Built a 3D interactive UI with HelixToolkit.
-* ⚔️ **Game of Guidance (C-based Psychological Game)** → Turn-based combat, branching storylines, and random attack mechanics.
-* 🎮 **Unity Horror RPG** → Low-poly 3D environment, chase mechanics, sanity effects, and psychological storytelling.
-* 🌐 **VBKP React + .NET 8 Website** → Integrated backend APIs with a modern React frontend.
-* 🔧 **ASP.NET WebForms Modernization** → Upgrading legacy apps with APIs, logging, and new feature support.
+### **Languages**
+C • C++ • Python • C# • SQL
+
+### **Frameworks / Tools**
+- .NET 8 Web API • React.js  
+- WPF (HelixToolkit 3D)  
+- SDL2 • Unity  
+- Git & GitHub • Docker  
+- Entity Framework • Chart.js  
+- AWS (Basics)  
+
+### **Other Strengths**
+- Cyber Security Fundamentals  
+- API Security & Clean Architecture  
+- Data Analytics & Visualization  
+- Photography • Editing • Blender Basics  
+- Strong Communication & Teamwork  
 
 ---
 
-## 🌟 Featured Mini Projects
+## 🏗 Featured Projects
 
-🚀 **Explore my Mini Projects Repository:**
+### 🔹 **VBKP React + .NET 8 Platform (In Progress)**
+Rebuilding a full event platform into a **modern React + .NET 8** system.  
+✔ API-driven architecture  
+✔ Medal tally, dashboards, admin tools  
+✔ CI/CD + cloud-ready deployment
 
-👉 **[Mini Projects – Click Here](https://github.com/Rudra011/Mini_Projects/)**
-*A curated collection of small but powerful builds — from experiments to polished utilities.*
+---
+
+### 🔹 **Game of Guidance – Psychological SDL2 RPG**  
+Turn-based combat meets psychological storytelling.  
+✔ Branching choices  
+✔ Random attack mechanics  
+✔ Full graphical upgrade from original C text game  
+
+---
+
+### 🔹 **Unity Low-Poly Horror RPG**  
+A narrative-driven experience focusing on atmosphere and sanity.  
+✔ Chase mechanics  
+✔ Sanity visuals  
+✔ Free asset optimization  
+✔ Level design & story zones  
+
+---
+
+## 🧪 Mini Projects
+Small experiments, utilities, prototypes & fun builds:  
+👉 **https://github.com/Rudra011/Mini_Projects**
 
 ---
 
 ## 🎨 Beyond Code
+When I log off VS Code:
 
-When I’m not coding, you’ll probably find me:
-
-* 📸 Exploring the world through my **camera lens**.
-* 🎶 Playing guitar & discovering new music.
-* ✍️ Writing **poetry & stories** (love, melancholy, imagination).
-* 🏀 Shooting hoops on the basketball court.
-* 🍳 Cooking something creative in the kitchen.
+📸 I’m behind a camera capturing moments  
+🎶 Strumming my guitar or exploring indie music  
+✍️ Writing poetry about imagination & melancholy  
+🏀 Playing basketball  
+🍳 Cooking creative vegetarian dishes  
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rudra-dubey-blr011/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge\&logo=HackerRank\&logoColor=white)](https://www.hackerrank.com/profile/jashndubey1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-dubey-blr011/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jashndubey1)
 
 ---
 
-✨ *“Code. Create. Break. Learn. Repeat.”*
+✨ *“Build with logic. Polish with creativity. Deliver with passion.”*
